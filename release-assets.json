@@ -12331,12 +12331,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.argoscomics": {
     "apk": {
-      "name": "tachiyomi-pt.argoscomics-v1.6.65.apk",
-      "sha256": "241da9f3e28ee1d55d340a7aae25aa8c65d5ea00b2480cceeaf5d79216d7af07"
+      "name": "tachiyomi-pt.argoscomics-v1.6.66.apk",
+      "sha256": "d1a6fa75e75e6e9ce3b57d0123f04f6bb5b7f3c3df0e2e02075a6fa6c97eef3c"
     },
     "jar": {
-      "name": "tachiyomi-pt.argoscomics-v1.6.65.jar",
-      "sha256": "d95cc77ee5885d84603ce313360d85238762974300fd8c2a4001d9f9970efcbb"
+      "name": "tachiyomi-pt.argoscomics-v1.6.66.jar",
+      "sha256": "7b59b4f064392ab1ecf06799efdaa6007f5b170acc648c91f32fb0f94bda792f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.argosscan": {
@@ -12611,12 +12611,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.fliptru": {
     "apk": {
-      "name": "tachiyomi-pt.fliptru-v1.6.6.apk",
-      "sha256": "0dc1c6f951ca49f1df4f974579d646970eb1875ab6c07455b953b38075b138a7"
+      "name": "tachiyomi-pt.fliptru-v1.6.7.apk",
+      "sha256": "bb58484dd28bfaff476d375abeeda98c0125b37f7312dfcbdf2c58dd8c64920b"
     },
     "jar": {
-      "name": "tachiyomi-pt.fliptru-v1.6.6.jar",
-      "sha256": "a62e49720c6a2f5825c0eecf4515356e8dfc30ba027aa7876d5029314053fdcb"
+      "name": "tachiyomi-pt.fliptru-v1.6.7.jar",
+      "sha256": "944bf8e76e9a5a7be12d5fbb8d38ca716012f7c595c33eabf3b33e3e4565d20f"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.flowermanga": {
