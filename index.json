@@ -34920,13 +34920,13 @@
         "name": "Monte Tai",
         "packageName": "eu.kanade.tachiyomi.extension.pt.montetai",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.montetai-v1.6.64.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0fae557/tachiyomi-pt.montetai-v1.6.65.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/montetai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-3/tachiyomi-pt.montetai-v1.6.64.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0fae557/tachiyomi-pt.montetai-v1.6.65.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106064",
-        "versionName": "1.6.64",
+        "versionCode": "106065",
+        "versionName": "1.6.65",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {

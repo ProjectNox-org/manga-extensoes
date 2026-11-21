@@ -13241,12 +13241,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.montetai": {
     "apk": {
-      "name": "tachiyomi-pt.montetai-v1.6.64.apk",
-      "sha256": "423aedcd4609e044cb4a4e1b8392552a93d5191c92f36998c7f20f9a10a7f319"
+      "name": "tachiyomi-pt.montetai-v1.6.65.apk",
+      "sha256": "23a6a235589dc484dad3f83d037c51fb768df619c5a383f44d13199b31af1aa9"
     },
     "jar": {
-      "name": "tachiyomi-pt.montetai-v1.6.64.jar",
-      "sha256": "fb06879d68d3d6a9b43ff44b8ee6afaf857a2b4e3e624c34b6a203008b97f0b9"
+      "name": "tachiyomi-pt.montetai-v1.6.65.jar",
+      "sha256": "81f9fea10c8e871783d9aa070f29ef8f57e89c5a71a0a0e9532c496439cea39e"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.mrtenzus": {
