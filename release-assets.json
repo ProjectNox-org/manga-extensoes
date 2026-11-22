@@ -13351,12 +13351,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.noindexscan": {
     "apk": {
-      "name": "tachiyomi-pt.noindexscan-v1.6.64.apk",
-      "sha256": "1a5e9de5311932837e28c4f57ea3e0562f59f0ebe6515987947a59630eee39f3"
+      "name": "tachiyomi-pt.noindexscan-v1.6.65.apk",
+      "sha256": "adaa3951e35ff1dfe8d2de0883406aa3c08117c105f78e6b3f53bd706ca0ecc2"
     },
     "jar": {
-      "name": "tachiyomi-pt.noindexscan-v1.6.64.jar",
-      "sha256": "3cecbe3b6e35cbaeecb7755ab342cb3d19611dd59dc196c2da8da447de7f8058"
+      "name": "tachiyomi-pt.noindexscan-v1.6.65.jar",
+      "sha256": "457ac94d9369a98b2c99c44badfa20c4edd02263a391ae5abe2ce4ae01ebe20d"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.onereader": {
