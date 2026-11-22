@@ -13511,12 +13511,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.roxinha": {
     "apk": {
-      "name": "tachiyomi-pt.roxinha-v1.6.1.apk",
-      "sha256": "f1b1cb8539b8211ac810830470b177e28f35710aee1202cdc1535066f3238823"
+      "name": "tachiyomi-pt.roxinha-v1.6.2.apk",
+      "sha256": "8278c00bfce3c6f5875e9ea201f90b98848c373598fb8e1fdabf5b7ad3dfb233"
     },
     "jar": {
-      "name": "tachiyomi-pt.roxinha-v1.6.1.jar",
-      "sha256": "bb48c36a32a7c62175f79ed09899b2cb0839a1c09c06ad56a2685dbeed757268"
+      "name": "tachiyomi-pt.roxinha-v1.6.2.jar",
+      "sha256": "b9472b3983de98645199c5f7144bde83326df2b1dc64fb2c0834f04a4808fb3a"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.saikaiscan": {
