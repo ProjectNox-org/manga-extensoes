@@ -33135,13 +33135,13 @@
         "name": "Bakai",
         "packageName": "eu.kanade.tachiyomi.extension.pt.bakai",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.bakai-v1.6.21.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/401f2f3/tachiyomi-pt.bakai-v1.6.22.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/pt/bakai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/81cbe42-2/tachiyomi-pt.bakai-v1.6.21.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/401f2f3/tachiyomi-pt.bakai-v1.6.22.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106021",
-        "versionName": "1.6.21",
+        "versionCode": "106022",
+        "versionName": "1.6.22",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {

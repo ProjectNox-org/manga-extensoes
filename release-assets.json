@@ -12391,12 +12391,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.bakai": {
     "apk": {
-      "name": "tachiyomi-pt.bakai-v1.6.21.apk",
-      "sha256": "8b35c060f3d0c7c5318638fa96ce4cf5acbfbca41917ea15b3655ff39e4eda61"
+      "name": "tachiyomi-pt.bakai-v1.6.22.apk",
+      "sha256": "3a1c0a0322e7abd2e5bc5070e8c3c4656c1663d702511c665cde107e8eb9b5c4"
     },
     "jar": {
-      "name": "tachiyomi-pt.bakai-v1.6.21.jar",
-      "sha256": "3d38df1a6bc593723a5f07ece13e5edb5cd833b22b54dadbcee0a10245887575"
+      "name": "tachiyomi-pt.bakai-v1.6.22.jar",
+      "sha256": "22fbf6e7c8f0f36ee7293ee19b940c8071b2e38a8a9a6fc39fa1c75355a2adf5"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.baozinho": {
