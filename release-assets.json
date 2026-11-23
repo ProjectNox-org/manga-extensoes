@@ -12421,12 +12421,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.blackoutcomics": {
     "apk": {
-      "name": "tachiyomi-pt.blackoutcomics-v1.6.12.apk",
-      "sha256": "347e25d5dc587c758fee18b4794885ae2501e00fa3dad6947f64d204aeba060a"
+      "name": "tachiyomi-pt.blackoutcomics-v1.6.13.apk",
+      "sha256": "247d4cc8252d6c1e9edab1397f23bab4831f232354b0c4fc927e00e0c70f4cee"
     },
     "jar": {
-      "name": "tachiyomi-pt.blackoutcomics-v1.6.12.jar",
-      "sha256": "40c29350fea443ed877fd1f46b515786667c24c86146ee35841c0e0e16c4f98c"
+      "name": "tachiyomi-pt.blackoutcomics-v1.6.13.jar",
+      "sha256": "5e550c0a20fff9b67cca379250a8ca46dfacd5815d402e49a4802fd38e754828"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.bladetoons": {
