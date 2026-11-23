@@ -1131,12 +1131,12 @@
   },
   "eu.kanade.tachiyomi.extension.all.manhuarm": {
     "apk": {
-      "name": "tachiyomi-all.manhuarm-v1.6.4.apk",
-      "sha256": "c0d144749d644a52e698018178b13bb700d836e0df5f21409dab218af58a4e37"
+      "name": "tachiyomi-all.manhuarm-v1.6.5.apk",
+      "sha256": "66776a454055b891441db0d494692695c042d62f95bf11c8908e6608cfd2ac35"
     },
     "jar": {
-      "name": "tachiyomi-all.manhuarm-v1.6.4.jar",
-      "sha256": "2815d2222f3364bb13333bdf34a053177370ba1c8e9bf10a73040e33671c3d3b"
+      "name": "tachiyomi-all.manhuarm-v1.6.5.jar",
+      "sha256": "00d265e81dd6f246a1ae0c5b539bd5ea641d55a6631c0dea5febeb70689f4262"
     }
   },
   "eu.kanade.tachiyomi.extension.all.manhwa18cc": {

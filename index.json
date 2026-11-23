@@ -6229,13 +6229,13 @@
         "name": "Manhuarm",
         "packageName": "eu.kanade.tachiyomi.extension.all.manhuarm",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.manhuarm-v1.6.4.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/e0aec88/tachiyomi-all.manhuarm-v1.6.5.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/all/manhuarm/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/0e7c06d/tachiyomi-all.manhuarm-v1.6.4.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/e0aec88/tachiyomi-all.manhuarm-v1.6.5.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106004",
-        "versionName": "1.6.4",
+        "versionCode": "106005",
+        "versionName": "1.6.5",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
