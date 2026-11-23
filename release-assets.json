@@ -12441,12 +12441,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.blitztoons": {
     "apk": {
-      "name": "tachiyomi-pt.blitztoons-v1.6.1.apk",
-      "sha256": "432f45a63d71503cb23d536a0b5b9813ebfdbb5a710a5de2735cd164c376d0c7"
+      "name": "tachiyomi-pt.blitztoons-v1.6.2.apk",
+      "sha256": "cf5ce152d939f41e6415311936665f417ea9b7a1370809d05f933d57af9d51fd"
     },
     "jar": {
-      "name": "tachiyomi-pt.blitztoons-v1.6.1.jar",
-      "sha256": "f2e9561457f59412ec348ad8f8a809cfafda5e36b22e44b02e2b0cf2f28cf052"
+      "name": "tachiyomi-pt.blitztoons-v1.6.2.jar",
+      "sha256": "d30d80fd498a15e3ddb4e1ce74d408ea8918f23af9a36b005552e08b37332f42"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.borutoexplorer": {
