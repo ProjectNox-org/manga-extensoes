@@ -13801,12 +13801,12 @@
   },
   "eu.kanade.tachiyomi.extension.pt.xxxyaoi": {
     "apk": {
-      "name": "tachiyomi-pt.xxxyaoi-v1.6.68.apk",
-      "sha256": "83ecb71a50f70a5d1f0b03531e6ca73de13610189117d62b1f72dc65c320fc49"
+      "name": "tachiyomi-pt.xxxyaoi-v1.6.69.apk",
+      "sha256": "b434e2ede1f43712784447cb45376defc9cac52a1adf985c4f0f57c2ed464054"
     },
     "jar": {
-      "name": "tachiyomi-pt.xxxyaoi-v1.6.68.jar",
-      "sha256": "747bdb699c46281caf6589b19683af3856cb54ae1af45c70ad4e8cf8da94cae9"
+      "name": "tachiyomi-pt.xxxyaoi-v1.6.69.jar",
+      "sha256": "cd59c5fdcf4ec6215ba9282fd62776123da664e872e077ba0a5f131fd3337c84"
     }
   },
   "eu.kanade.tachiyomi.extension.pt.yaoifanclub": {
