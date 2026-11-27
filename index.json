@@ -19529,20 +19529,20 @@
         "name": "Mist Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.mistscans",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0484-1/tachiyomi-en.mistscans-v1.6.28.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/c4ccec8/tachiyomi-en.mistscans-v1.6.29.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0484-1/tachiyomi-en.mistscans-v1.6.28.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/c4ccec8/tachiyomi-en.mistscans-v1.6.29.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106028",
-        "versionName": "1.6.28",
+        "versionCode": "106029",
+        "versionName": "1.6.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "5732165121603348598",
             "name": "Mist Scans",
             "language": "en",
-            "homeUrl": "https://mistscans.org"
+            "homeUrl": "https://mistscans.to"
           }
         ]
       },
@@ -41113,13 +41113,13 @@
         "name": "MangaInUa",
         "packageName": "eu.kanade.tachiyomi.extension.uk.mangainua",
         "resources": {
-          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0484-3/tachiyomi-uk.mangainua-v1.6.14.apk",
+          "apkUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/c4ccec8/tachiyomi-uk.mangainua-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/ProjectNox-org/manga-fonte-extensoes@main/src/uk/mangainua/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/9eb0484-3/tachiyomi-uk.mangainua-v1.6.14.jar"
+          "jarUrl": "https://github.com/ProjectNox-org/manga-extensoes/releases/download/c4ccec8/tachiyomi-uk.mangainua-v1.6.15.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106014",
-        "versionName": "1.6.14",
+        "versionCode": "106015",
+        "versionName": "1.6.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
