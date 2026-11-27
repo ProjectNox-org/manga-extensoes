@@ -17091,12 +17091,12 @@
   },
   "eu.kanade.tachiyomi.extension.zh.dumanwu": {
     "apk": {
-      "name": "tachiyomi-zh.dumanwu-v1.6.1.apk",
-      "sha256": "dc9485ab2ea20eae5507fbaef5c6b3d4a17e0be307efc092fd6b2c4c3d1fede8"
+      "name": "tachiyomi-zh.dumanwu-v1.6.2.apk",
+      "sha256": "64695a897eebf431d991e6784922d94b0b0672cd0948e334fd3010d7e19f16fe"
     },
     "jar": {
-      "name": "tachiyomi-zh.dumanwu-v1.6.1.jar",
-      "sha256": "bb5b87f410c53c30c9cd8a1825d3e9dade85c32c445f87fed41594ce1ed7dfaa"
+      "name": "tachiyomi-zh.dumanwu-v1.6.2.jar",
+      "sha256": "89046444f0ad9144429edb2e2b9a517fa902108da88a5c25762069b96daf11ac"
     }
   },
   "eu.kanade.tachiyomi.extension.zh.eighteenmanhua": {
@@ -17551,12 +17551,12 @@
   },
   "eu.kanade.tachiyomi.extension.zh.rumanhua": {
     "apk": {
-      "name": "tachiyomi-zh.rumanhua-v1.6.1.apk",
-      "sha256": "7e650dcc4a97c2db1ffb9bd64df63dbc550f8eafeaba83f93f9d371f4263a288"
+      "name": "tachiyomi-zh.rumanhua-v1.6.2.apk",
+      "sha256": "bedcc5f2a8d480f2492a4a0f79285696924c263ba57957e8f74b7a24a385ee80"
     },
     "jar": {
-      "name": "tachiyomi-zh.rumanhua-v1.6.1.jar",
-      "sha256": "4d9028caeed7e5eb6e177d3cb1709c8a1d7267efe9c25f9df0d31d309db91042"
+      "name": "tachiyomi-zh.rumanhua-v1.6.2.jar",
+      "sha256": "c292310dfbb8b42a43f5705cd844e350c777b85084e51a15480fcc10b13f019e"
     }
   },
   "eu.kanade.tachiyomi.extension.zh.rumanhuaunoriginal": {
